@@ -196,7 +196,7 @@ export function Hero() {
 
       {/* Nav */}
       <motion.header
-        className="relative z-20 flex items-center justify-between px-6 pt-7 sm:px-10 lg:px-[min(10.5vw,152px)] lg:pt-10"
+        className="relative z-20 flex items-center justify-between px-6 pt-9 sm:px-10 lg:px-[min(10.5vw,152px)] lg:pt-14"
         initial={{ opacity: 0, y: reducedMotion ? 0 : -14 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 1.1, ease: EASE }}
