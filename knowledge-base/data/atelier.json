@@ -1,0 +1,55 @@
+{
+  "name": "AURA – Unikatschmuck",
+  "legal_name": "Aura Schmuck Design, Inh. Petra Hübner",
+  "owner": "Petra Hübner",
+  "owner_title": "Goldschmiedemeisterin",
+  "craft": "Goldschmiede-Atelier, Unikatschmuck",
+  "positioning": "Außergewöhnlicher Unikatschmuck im Herzen Lübecks — eigenwillige Einzelstücke, charakteristische Zweifarbigkeit Silber + Gold oder Silber + Kupfer, punzierte, fast bildhauerisch bearbeitete Oberflächen.",
+  "district": "Lübecker Altstadt (Hüxstraße)",
+  "address": {
+    "street": "Hüxstraße 32",
+    "postal_code": "23552",
+    "city": "Lübeck",
+    "state": "Schleswig-Holstein",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "0451 7063874",
+    "phone_display": "0451 – 706 38 74",
+    "fax": "0451 7063874",
+    "email": "info@aura-unikatschmuck.de",
+    "website": "http://www.aura-unikatschmuck.de/",
+    "socials": null
+  },
+  "ust_id": "DE 2213200726",
+  "ust_id_note": "Formal ungültig (10 Ziffern statt 9) — vermutlich Tippfehler der alten Site, mit Inhaberin klären (GAPS.md).",
+  "timeline": [
+    { "year": 1991, "event": "Schritt in die Selbstständigkeit, zunächst in Zusammenarbeit mit anderen Goldschmieden" },
+    { "year": 1997, "event": "Meisterprüfung im Goldschmiedehandwerk" },
+    { "year": 2001, "event": "Eröffnung des eigenen Ateliers in der Hüxstraße 32, Lübeck" }
+  ],
+  "opening_hours": {
+    "monday": "Nach Vereinbarung",
+    "tuesday": "Nach Vereinbarung",
+    "wednesday": "Nach Vereinbarung",
+    "thursday": "10:00-18:00",
+    "friday": "10:00-18:00",
+    "saturday": "10:00-14:00",
+    "sunday": "Geschlossen",
+    "note": "„…und nach telefonischer oder persönlicher Vereinbarung.“ (wörtlich, kontakt.htm)"
+  },
+  "materials": {
+    "metals": ["925 Silber", "900 Gold", "Gelbgold", "Kupfer"],
+    "stones": ["Turmalin", "Opal", "Lapislazuli", "Chrysopras", "Süßwasserperle", "Brillant"],
+    "techniques": ["Punzieren", "Strichmattierung", "Zweifarbigkeit", "fast bildhauerische Bearbeitung"]
+  },
+  "categories": ["Ringe", "Ohrschmuck", "Halsschmuck", "Armschmuck", "Broschen", "Eheringe"],
+  "pricing_convention": "Preis auf Anfrage — keine Preise online, kein Onlineshop",
+  "notes": [
+    "Keine Social-Media-Präsenz, keine Online-Reviews (Stand Erfassung) — keine Testimonials erfinden.",
+    "Eheringe nur als Meta-Keyword belegt, keine eigene Seite auf der alten Site.",
+    "Termingeführtes Atelier: feste Öffnung nur Do/Fr/Sa."
+  ],
+  "source": "http://www.aura-unikatschmuck.de/ + Verzeichnis-Querchecks (gelbeseiten, 11880, cylex u. a.)",
+  "captured_at": "2026-07-08"
+}

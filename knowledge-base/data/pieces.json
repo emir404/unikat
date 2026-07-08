@@ -1,0 +1,108 @@
+{
+  "currency": null,
+  "pricing": "Preis auf Anfrage (Haus-Konvention, keine Preise online)",
+  "source": "http://www.aura-unikatschmuck.de/pages/secpages/*.htm",
+  "captured_at": "2026-07-08",
+  "note": "provenance: 'real' = wörtlich von der alten Website übernommen; 'illustrative' = repräsentatives Demo-Stück im dokumentierten Material-/Technik-Vokabular des Hauses — vor Livegang mit Inhaberin ersetzen/bestätigen (GAPS.md #6).",
+  "pieces": [
+    {
+      "id": "ring-turmalin",
+      "provenance": "real",
+      "name": "Strichmattierter Ring mit Turmalin",
+      "source_name": "strichmattierter Ring mit Turmalin in Kissenschliff",
+      "category": "Ringe",
+      "materials": "900er Gold + 925 Silber",
+      "dimensions": "Schiene 10 mm breit, 3 mm stark",
+      "stone": "Turmalin Indigo, Kissenschliff, 8 × 8 mm",
+      "carat": "3,51 ct",
+      "surface": "strichmattiert",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "ohrstecker-dreieck",
+      "provenance": "real",
+      "name": "Punzierter Ohrstecker in Dreiecksform",
+      "source_name": "punzierter Ohrstecker in Dreiecksform",
+      "category": "Ohrschmuck",
+      "materials": "900 Gold + 925 Silber",
+      "dimensions": "16 × 13 mm",
+      "stone": null,
+      "carat": null,
+      "surface": "punziert",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "halsreif-zehnreihig",
+      "provenance": "real",
+      "name": "Zehnreihiger Halsreif mit punzierten Strukturen",
+      "source_name": "Zehnreihiger Halsreif mit punzierten Strukturen",
+      "category": "Halsschmuck",
+      "materials": "925er Silber + 900er Gold",
+      "dimensions": "45 × 42 mm · Längen 42 cm und 45 cm",
+      "stone": null,
+      "carat": null,
+      "surface": "punzierte Strukturen",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "ring-opal",
+      "provenance": "illustrative",
+      "name": "Punzierter Ring mit Opal",
+      "category": "Ringe",
+      "materials": "925 Silber + 900 Gold",
+      "dimensions": "Schiene 8 mm breit",
+      "stone": "Opal, Cabochon",
+      "carat": null,
+      "surface": "punziert",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "collier-lapislazuli",
+      "provenance": "illustrative",
+      "name": "Collier mit Lapislazuli",
+      "category": "Halsschmuck",
+      "materials": "925 Silber + 900 Gold",
+      "dimensions": "Länge 45 cm",
+      "stone": "Lapislazuli",
+      "carat": null,
+      "surface": "strichmattiert, punzierte Glieder",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "ohrhaenger-perle",
+      "provenance": "illustrative",
+      "name": "Ohrhänger mit Süßwasserperlen",
+      "category": "Ohrschmuck",
+      "materials": "925 Silber + Kupfer",
+      "dimensions": "Länge 38 mm",
+      "stone": "Süßwasserperle",
+      "carat": null,
+      "surface": "punziert",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "armreif-kupfer",
+      "provenance": "illustrative",
+      "name": "Strichmattierter Armreif",
+      "category": "Armschmuck",
+      "materials": "925 Silber + Kupfer",
+      "dimensions": "Innenmaß 60 × 55 mm",
+      "stone": null,
+      "carat": null,
+      "surface": "strichmattiert, punzierte Kante",
+      "price": "Preis auf Anfrage"
+    },
+    {
+      "id": "brosche-chrysopras",
+      "provenance": "illustrative",
+      "name": "Brosche mit Chrysopras",
+      "category": "Broschen",
+      "materials": "925 Silber + 900 Gold",
+      "dimensions": "42 × 28 mm",
+      "stone": "Chrysopras",
+      "carat": null,
+      "surface": "punziert, fast bildhauerisch bearbeitet",
+      "price": "Preis auf Anfrage"
+    }
+  ]
+}
