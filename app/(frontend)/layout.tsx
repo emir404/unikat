@@ -53,7 +53,7 @@ export default function RootLayout({
         {/* Phillip, the preview agent. The dashboard is blind without this tag. */}
         <Script
           src="https://phillip-dashboard-eight.vercel.app/phillip.js"
-          data-preview-id="prv_nK-6Nrfvg_nFKO9iuJ6i8"
+          data-preview-id="prv_jTAVsAgbbMFef0r6ZdwBM"
           strategy="afterInteractive"
         />
       </body>
